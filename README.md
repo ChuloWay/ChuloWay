@@ -1,6 +1,6 @@
 ## 👋 Hi there, it's Victor Okoye
 
-I'm a passionate Software developer and Technical writer 👩‍💻✍️ with a knack for creating high-quality, user-friendly applications and engaging technical content. I'm always eager to learn new technologies 💡 and expand my skillset 📈.
+I'm a Software developer and Technical writer 👩‍💻✍️ with a knack for creating high-quality, user-friendly applications and engaging technical content. I'm always eager to learn new technologies 💡 and expand my skillset 📈.
 
 ## Focus 🚀
 
