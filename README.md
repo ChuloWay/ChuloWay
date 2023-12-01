@@ -1,15 +1,15 @@
 ## 👋 Hi there, it's Victor Okoye
 
-I'm a Software developer and Technical writer 👩‍💻✍️ with a knack for creating high-quality, user-friendly applications and engaging technical content. I'm always eager to learn new technologies 💡 and expand my skillset 📈.
+I'm a Software developer and Technical writer with a knack for creating high-quality, user-friendly applications and engaging technical content. I'm always eager to learn new technologies and expand my skillset.
 
 ## Focus 🚀
 
 I'm currently focused on:
 
-- **Developing software applications using NodeJS, NestJS, TypeScript, NoSQL, and SQL.** 🖥️
+- **Developing software applications using NodeJS, NestJS, TypeScript, NoSQL, and SQL.**
 
 - **Understanding Java for software development.** ☕️
-- **Enhancing my understanding of backend performance optimization 🚀: I'm committed to optimizing the performance of backend applications, and I'm constantly seeking opportunities to learn, implement and write about effective optimization techniques.** ☁️
+- **Enhancing my understanding of backend performance optimization: I'm committed to optimizing the performance of backend applications, and I'm constantly seeking opportunities to learn, implement and write about effective optimization techniques.** ☁️
 
 ## Technical Writing Portfolio 📝
 
@@ -21,7 +21,7 @@ I'm passionate about sharing my knowledge and expertise through technical writin
 
 ## Get in Touch 🤝
 
-I'm always open to connecting with fellow developers and technical writers 🤝, exploring new opportunities 🚀, and sharing my passion for technology 💡. Feel free to reach out if you'd like to collaborate 🤝, discuss technical topics 💬, or simply share your thoughts on the ever-evolving world of web development and technical writing 🌐✍️.
+I'm always open to connecting with fellow developers and technical writers, exploring new opportunities, and sharing my passion for technology. Feel free to reach out if you'd like to collaborate, discuss technical topics, or simply share your thoughts on the ever-evolving world of web development and technical writing.
 
 [✉️][Send An Email](mailto:okoyeebuka25@gmail.com)
 
