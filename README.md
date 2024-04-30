@@ -23,7 +23,7 @@ I'm passionate about sharing my knowledge and expertise through technical writin
 
 I'm always open to connecting with fellow developers and technical writers, exploring new opportunities, and sharing my passion for technology. Feel free to reach out if you'd like to collaborate, discuss technical topics, or simply share your thoughts on the ever-evolving world of web development and technical writing.
 
-[✉️][Send An Email](mailto:okoyeebuka25@gmail.com)
+[✉️][Send An Email](mailto:victorchukwuebukaokoye@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorokoye_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/okoye-chukwuebuka)
